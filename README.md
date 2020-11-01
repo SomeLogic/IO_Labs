@@ -1,5 +1,6 @@
 # Software Engineering
-Poznań University of Technology Software Engineering Laboratories. Each branch contains different task.
+Poznań University of Technology Software Engineering Laboratories. Each branch contains different task.<br>
+Created by Robert Szczepański
 
 ## Table of contents
 * [Lab 1](#lab-1)
